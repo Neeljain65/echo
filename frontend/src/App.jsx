@@ -204,7 +204,7 @@ const App = () => {
     //                 type="email"
     //                 placeholder="Enter Recipient's Email Address"
     //                 onChange={(e) => setReceiverEmail(e.target.value)}
-    //                 className="font-semibold text-left placeholder-opacity-95 rounded-xl bg-zinc-200 text-lg placeholder-black text-black p-4"
+    //                 className="font-semibold text-left placeholder-opacity-95 focus:outline-none rounded-xl bg-zinc-200 text-lg placeholder-black text-black p-4"
     //               />
     //             </div>
     //           </div>
